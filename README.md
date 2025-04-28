@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr1zee&theme=catppuccin_mocha&show_icons=true)
+![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr1zee&theme=gotham&show_icons=true)
 <!--
 **Gr1zee/Gr1zee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
