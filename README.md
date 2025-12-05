@@ -1,5 +1,7 @@
 ## Hi there 👋
-[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=gr1zee)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gr1zee&theme=dark)](https://git.io/streak-stats)
+
+
 
 <!--
 **Gr1zee/Gr1zee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
