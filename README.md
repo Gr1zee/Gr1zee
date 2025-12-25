@@ -1,5 +1,4 @@
 ## Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gr1zee&theme=radical)](https://git.io/streak-stats)
 <div align="right">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/gr1zee?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
 </div>
